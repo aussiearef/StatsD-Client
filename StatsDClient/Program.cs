@@ -6,7 +6,7 @@ namespace StatsDClient
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sending metrics to StatsD");
 
             while(true)
             {
